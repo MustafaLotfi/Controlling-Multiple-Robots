@@ -15,13 +15,13 @@ The task is to transport robots from their initial conditions to their desired d
 </div>
 
 
-### 1.Two robots, park at determined destinations
+### 2.Two robots, park at determined destinations
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/3.gif">
 </div>
 
 
-### 1.Nine robots, park at determined destinations
+### 3.Nine robots, park at determined destinations
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/4.gif">
 </div>
