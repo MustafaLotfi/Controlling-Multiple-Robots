@@ -13,7 +13,7 @@ final_dist_err = 0.02;
 i_stop = 10000;
 % Lower than this value will stop siumulation
 
-%% Problem #1 parameters
+%% Problem #1 parameters, 2 Robots
 if problem_number == 1
     % Initial Condition
     x10 = 1;
@@ -92,7 +92,7 @@ if problem_number == 1
     K_rep = [k1_rep, k2_rep];
     constant1 = 0.5;
 end
-%% Problem #2 parameters
+%% Problem #2 parameters, 9 Robots
 if problem_number == 2
     Q{1} = [2, 0, 1, 0]';
     Q{2} = [-1, 0, -2, 0]';
