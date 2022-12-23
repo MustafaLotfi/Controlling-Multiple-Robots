@@ -5,12 +5,12 @@ The task is to transport robots from their initial conditions to their desired d
 
 ## Dynamical system, inputs and other variables
 <div align="left">
-  <img src="https://github.com/MustafaLotfi/Optimized-PID-Controller/blob/main/docs/images/1.png">
+  <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/1.png">
 </div>
 
 ## System response
 <div align="left">
-  <img src="https://github.com/MustafaLotfi/Optimized-PID-Controller/blob/main/docs/images/2.gif">
+  <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/2.gif">
 </div>
 
 ## how ot run
