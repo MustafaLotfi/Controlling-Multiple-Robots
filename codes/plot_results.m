@@ -99,7 +99,8 @@ if dynamic_plot
                 ':','color', [0.3, 0.3, 0.3])
             hold on
             if numel(points)
-                plot(points(1,:), points(2,:), 'DisplayName', 'Wall')
+                plot(points(1,:), points(2,:),...
+                    "LineWidth", 2, 'DisplayName', 'Wall')
             end
             plot(q(1,:), q(3,:), ':', 'color', colors(j,:))
             axis equal
@@ -112,11 +113,11 @@ if dynamic_plot
                 end
                 plot(q(1,i)+r_x_plot,...
                     [q(3,i)+r_y_plot;q(3,i)-r_y_plot],...
-                    'color', colors(j,:), 'LineWidth', 2)
+                    'color', colors(j,:), 'LineWidth', 4)
             else
                 plot(q(1,end)+r_x_plot,...
                     [q(3,end)+r_y_plot;q(3,end)-r_y_plot],...
-                    'color', colors(j,:), 'LineWidth', 2)
+                    'color', colors(j,:), 'LineWidth', 4)
             end
         end
         hold off
