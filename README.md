@@ -9,17 +9,19 @@ The task is to transport robots from their initial conditions to their desired d
 </div>
 
 ## Preview
-### 2 robots, park at the nearest destination
+### 2 robots, park at the nearest destinations
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/2.gif">
 </div>
 
-### 2 robots, park at determined destination
+
+### 2 robots, park at determined destinations
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/3.gif">
 </div>
 
-### 9 robots, park at determined destination
+
+### 9 robots, park at determined destinations
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/4.gif">
 </div>
