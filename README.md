@@ -26,7 +26,7 @@ The task is to transport robots from their initial conditions to their desired d
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/4.gif">
 </div>
 
-## how ot run
+## How ot run
 1.Clone the repository.
 
 2.Change initial conditions or number of robots in initialize.m file if you want.
