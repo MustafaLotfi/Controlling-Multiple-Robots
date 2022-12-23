@@ -8,9 +8,20 @@ The task is to transport robots from their initial conditions to their desired d
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/1.png">
 </div>
 
-## System response
+## Preview
+### 2 robots, park at the nearest destination
 <div align="left">
   <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/2.gif">
+</div>
+
+### 2 robots, park at determined destination
+<div align="left">
+  <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/3.gif">
+</div>
+
+### 9 robots, park at determined destination
+<div align="left">
+  <img src="https://github.com/MustafaLotfi/Conrolling-Multiple-Robots/blob/main/docs/images/4.gif">
 </div>
 
 ## how ot run
