@@ -1,7 +1,6 @@
 # Conrolling-Multiple-Robots
 ## Introduction
-Controlling multiple holonomic mobile robots has been considered in this project.
-The task is to transfer robots from their initial conditions to their desired destinations without colliding to each other. The solution is based on potential field of each robot. Hence no trajectory planning is done for robots to perform the scenario. In this approach, in every time steps, distances and directions of robots will be calculated respect to each other and to the walls.
+Controlling multiple holonomic mobile robots has been considered in this project. The task is to transfer robots from their initial conditions to their desired destinations without colliding with each other. The solution is based on the potential field of each robot. Hence no trajectory planning is done for robots to perform the scenario. In this approach, at every time steps, distances and directions of robots will be calculated with respect to each other and also to the walls.
 
 ## Dynamical system, inputs and other variables
 <div align="left">
