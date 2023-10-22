@@ -1,4 +1,4 @@
-function u=calc_u(t, q, q_d, delta_Q, drp, init_params, j)
+function u=calc_u(~, q, q_d, delta_Q, drp, init_params, j)
 consider_collision = true;
 constant1 = init_params.constant1;
 m = init_params.m;
