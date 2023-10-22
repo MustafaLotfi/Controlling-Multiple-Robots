@@ -70,6 +70,7 @@ if problem_number == 1
     p8 = [2*(r+d), 2*r+d]';
     p9 = [2*(2*r+d), 2*r+d]';
     points = [p1, p2, p3, p4, p5, p6, p7, p8, p9];
+    points = [];
 
     % Controller
     k = 15;

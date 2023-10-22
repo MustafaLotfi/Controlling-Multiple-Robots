@@ -1,5 +1,5 @@
 function [vars, init_params]=simulate_system()
-init_params = initialize(2, false);
+init_params = initialize(1, false);
 r = init_params.r;
 
 Q = init_params.Q;
